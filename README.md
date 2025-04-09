@@ -9,7 +9,7 @@ Aspiring penetration tester with a passion for ethical hacking and cybersecurity
 - LinkedIn: [https://www.linkedin.com/in/ednell-june-songahid-17436b141/]
 
 ## Certificate & Training
-| Certification             | Status         | Completion Date |
+| Certification & Training             | Status         | Completion Date |
 |---------------------------|----------------|-----------------|
 | HTB Academy: Penetration Testing Process  | Completed      | March 2025    |
 | HTB Academy: Penetration Getting Stareted | In Progress | April 2025   |

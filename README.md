@@ -13,7 +13,7 @@ Aspiring penetration tester with a passion for ethical hacking and cybersecurity
 |---------------------------|----------------|-----------------|
 | HTB Academy: Penetration Testing Process  | Completed      | March 2025    |
 | HTB Academy: Penetration Getting Stareted | In Progress | April 2025   |
-| HTB Academy: Network Enumeration with Nmap  | Planned      | April 202   |
+| HTB Academy: Network Enumeration with Nmap  | Planned      | April 2025   |
 | HTB Academy: Footprinting | Planned | April 2025   |
 | HTB Academy: Information Gathering - Web Edition  | Planned      | April 202  |
 | HTB Academy: Vulnerability Assessment | Planned | April 2025   |

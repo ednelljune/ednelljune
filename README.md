@@ -15,9 +15,9 @@ Aspiring penetration tester with a passion for ethical hacking and cybersecurity
 | HTB Academy: Penetration Getting Stareted | In Progress | April 2025   |
 | HTB Academy: Network Enumeration with Nmap  | Planned      | April 2025   |
 | HTB Academy: Footprinting | Planned | April 2025   |
-| HTB Academy: Information Gathering - Web Edition  | Planned      | April 202  |
+| HTB Academy: Information Gathering - Web Edition  | Planned      | April 2025  |
 | HTB Academy: Vulnerability Assessment | Planned | April 2025   |
-| HTB Academy: File Transfers  | Planned| April 202    |
+| HTB Academy: File Transfers  | Planned| April 2025    |
 | HTB Academy: PenetrationShells & Payloads | Planned | April 2025   |
 | HTB Academy: Using the Metasploit Framework | Planned | April 2025   |
 | HTB Academy: Password Attacks | Planned | April 2025   |
